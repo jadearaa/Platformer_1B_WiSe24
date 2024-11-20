@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - interactable
   - end
+  - tp
   layers:
   - Default
   - TransparentFX
